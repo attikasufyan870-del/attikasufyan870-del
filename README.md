@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! I'm Attika Sufyan 👋
 
-<!--
-**attikasufyan870-del/attikasufyan870-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student | Ethical Hacker in Training
+📍 Pakistan | 💻 Passionate about Security & Technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About Me
+- 🎓 Currently studying **Cybersecurity**
+- 🌱 Learning **Ethical Hacking & Penetration Testing**
+- 🔍 Practicing on **TryHackMe & PicoCTF**
+- 💡 Interested in **Network Security & Web Security**
+
+## 🚀 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat&logo=hackthebox&logoColor=white)
+
+## 📂 Projects
+- 🔒 Password Strength Checker
+- 🔍 Python Port Scanner
+- 🧩 CTF Writeups
+
+---
+⚡ *"Learning cybersecurity one challenge at a time!"*
